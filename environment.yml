@@ -1,0 +1,13 @@
+name: julia-python-r-bash-octave
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - scipy
+  - sympy
+  - plotly_express
+  - plotnine
+  - bash_kernel

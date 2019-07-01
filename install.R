@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("esquisse")
+install.packages("feather")
+install.packages("knitr")
