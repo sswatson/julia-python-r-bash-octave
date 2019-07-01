@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - scipy
   - sympy
-  - plotly_express
   - plotnine
-  - bash_kernel
+  - pip
+  - pip:
+    - bash_kernel
