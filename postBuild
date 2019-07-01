@@ -1,1 +1,2 @@
 python -m bash_kernel.install
+julia -e "using Pkg; Pkg.add(\"RCall\")"
