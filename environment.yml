@@ -12,3 +12,4 @@ dependencies:
   - pip
   - pip:
     - bash_kernel
+    - octave_kernel
