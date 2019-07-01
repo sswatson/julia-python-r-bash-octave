@@ -328,12 +328,6 @@ git-tree-sha1 = "3ea391c3211f799df20396d256cee5c8bd755605"
 uuid = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 version = "2.8.1"
 
-[[RCall]]
-deps = ["CategoricalArrays", "Conda", "DataFrames", "DataStructures", "Dates", "Libdl", "Missings", "REPL", "Random", "Requires", "StatsModels", "WinReg"]
-git-tree-sha1 = "828332205a09377da6a8ebd1e615b11a22f8def6"
-uuid = "6f49c342-dc21-5d91-9882-a32aef131414"
-version = "0.13.3"
-
 [[RData]]
 deps = ["CategoricalArrays", "CodecZlib", "DataFrames", "Dates", "FileIO", "Test", "TimeZones"]
 git-tree-sha1 = "bfb88b9c5befb0d196be0843372a198d460d0cfc"
@@ -428,12 +422,6 @@ git-tree-sha1 = "8a0f4b09c7426478ab677245ab2b0b68552143c7"
 uuid = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 version = "0.30.0"
 
-[[StatsModels]]
-deps = ["Compat", "DataFrames", "StatsBase", "Test"]
-git-tree-sha1 = "b5a735dcd2be05f0af86709750d4d5f62ca4a25d"
-uuid = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
-version = "0.5.0"
-
 [[SymPy]]
 deps = ["LinearAlgebra", "PyCall", "RecipesBase", "SpecialFunctions"]
 git-tree-sha1 = "1b0c68d5b11218f10a21a4d39c2b81b186fdd9b3"
@@ -497,9 +485,3 @@ deps = ["Random", "Test"]
 git-tree-sha1 = "9a0bb82eede528debe631b642eeb48a631a69bc2"
 uuid = "ea10d353-3f73-51f8-a26c-33c1cb351aa5"
 version = "0.6.1"
-
-[[WinReg]]
-deps = ["Test"]
-git-tree-sha1 = "808380e0a0483e134081cc54150be4177959b5f4"
-uuid = "1b915085-20d7-51cf-bf83-8f477d6f5128"
-version = "0.3.1"
